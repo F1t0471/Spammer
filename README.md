@@ -8,8 +8,7 @@ Untuk bersenang senang
 <li><code>pkg install git</code></li>
 <li><code>git clone https://github.com/F1t0471/Spammer.git</code></li>
 <li><code>cd Spammer</code></li>
-<li><code>pip2 install -r requirements.txt</code></li>
-<li><code>python2 DarkFb.py</code></li>
+<li><code>python2 Buka.py</code></li>
 </ul>
 <br />
 <br />
