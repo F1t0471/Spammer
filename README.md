@@ -10,6 +10,9 @@ Untuk bersenang senang
 <li><code>clear</code></li>
 <li><code>ls</code></li>
 <li><code>cd Spammer</code></li>
+<li><code>ls</code></li>
+*Lihat kode masuk terlebih dahulu*
+<li><code>cat kodemasuk.txt</code></li>
 <li><code>python2 Buka.py</code></li>
 </ul>
 <br />
