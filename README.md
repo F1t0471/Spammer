@@ -8,7 +8,7 @@ Untuk bersenang senang
 <li><code>pkg install git</code></li>
 <li><code>git clone https://github.com/F1t0471/Spammer.git</code></li>
 <li><code>clear</code></li>
-<li><code>ls</code><li>
+<li><code>ls</code></li>
 <li><code>cd Spammer</code></li>
 <li><code>python2 Buka.py</code></li>
 </ul>
